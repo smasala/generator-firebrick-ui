@@ -1,0 +1,9 @@
+{
+	"version":"0.0.0",
+	"name":"<%= name %>",
+	"private": true,
+	"dependencies": {},
+	"scripts":{
+		"start": "node ./tools/node_server.js"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"name": "generator-firebrick-ui",
+  	"version": "0.1.0",
+  	"description": "Yeoman generation for Firebrick UI",
+  	"files": [
+		"app"
+  	],
+  	"keywords": [
+		"yeoman-generator", 
+	  	"firebrick",
+	  	"firebrick ui",
+	  	"scaffold",
+	    "framework",
+	    "component",
+	    "front-end",
+	    "app"
+	],
+  	"dependencies": {
+    	"yeoman-generator": "^0.20.2"
+  	},
+  	"devDependencies": {
+  		"grunt": "~0.4.5",
+    	"grunt-contrib-jshint": "^0.11.0",
+    	"grunt-jscs": "^2.1.0",
+    	"jshint-stylish": "^1.0.0"
+  	},
+  	"repository": {
+  		"type": "git",
+  		"url": "git://github.com/smasala/generator-firebrick-ui.git"
+	},
+  	"license": "MIT"
+}
