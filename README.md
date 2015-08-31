@@ -1,4 +1,4 @@
-## Firebrick UI Yeoman Generator
+## Firebrick UI Yeoman Generator [![Build Status](https://travis-ci.org/smasala/generator-firebrick-ui.svg)](https://travis-ci.org/smasala/generator-firebrick-ui)
 
 Before getting started, make sure you have following installed:
 
